@@ -21,7 +21,7 @@ onMounted(() => {
  <!-- <div class="events">
     <EventCard v-for="event in events" :key="event.id" :event="event" />
   </div>-->
-  <img  :src="pat.JPG">
+  <img  src="pat.JPG">
 </template>
 
 <style scoped>
