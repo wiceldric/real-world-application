@@ -37,4 +37,10 @@ nav a.router-link-exact-active {
 h2 {
   font-size: 20px;
 }
+
+.myPicture {
+  border-style: solid;
+  border-width: 2;
+  border-color: yellow;
+}
 </style>
