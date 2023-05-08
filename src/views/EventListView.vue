@@ -17,7 +17,7 @@ onMounted(() => {
 </script>
 
 <template>
-  <h1>Events For Good</h1>
+  <h1>Events For Evil</h1>
   <div class="events">
     <EventCard v-for="event in events" :key="event.id" :event="event" />
   </div>
