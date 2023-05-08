@@ -17,10 +17,10 @@ onMounted(() => {
 </script>
 
 <template>
-  <h1>Events For Evil</h1>
-  <div class="events">
+  <h1>Voy A Cojer Telas</h1>
+ <!-- <div class="events">
     <EventCard v-for="event in events" :key="event.id" :event="event" />
-  </div>
+  </div>-->
 </template>
 
 <style scoped>
