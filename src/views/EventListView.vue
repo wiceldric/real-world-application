@@ -30,4 +30,10 @@ onMounted(() => {
   flex-direction: column;
   align-items: center;
 }
+
+.myPicture {
+  border-style: solid;
+  border-width: 2;
+  border-color: yellow;
+}
 </style>
