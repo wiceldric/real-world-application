@@ -18,10 +18,10 @@ onMounted(() => {
 
 <template>
   <h1>Voy A Cojer Telas</h1>
- <!-- <div class="events">
+ <div class="events">
     <EventCard v-for="event in events" :key="event.id" :event="event" />
-  </div>-->
-  <img  class="myPicture" src="../assets/pat.JPG">
+  </div>
+  
 </template>
 
 <style scoped>
@@ -35,6 +35,7 @@ onMounted(() => {
   border-style: solid;
   border-width: 2;
   border-color: yellow;
-  border-radius: 50%;
+  height: 400px;
+  width: 300px;
 }
 </style>
